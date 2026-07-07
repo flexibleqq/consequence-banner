@@ -1,0 +1,28 @@
+{
+  "id": "consequence-banner",
+  "title": "Consequence Banner",
+  "description": "Plays a sound and displays a customizable, fading corner banner — inspired by the choice-notification style of Life is Strange and other narrative games. Trigger it locally from a macro, or broadcast it to every connected player as the GM.",
+  "authors": [
+    {
+      "name": "flexibleqq"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "socket": true,
+  "url": "https://github.com/flexibleqq/consequence-banner",
+  "manifest": "https://github.com/flexibleqq/consequence-banner/releases/latest/download/module.json",
+  "download": "https://github.com/flexibleqq/consequence-banner/releases/download/1.0.0/module.zip",
+  "readme": "https://github.com/flexibleqq/consequence-banner/blob/main/README.md",
+  "bugs": "https://github.com/flexibleqq/consequence-banner/issues",
+  "changelog": "https://github.com/flexibleqq/consequence-banner/releases"
+}
